@@ -62,35 +62,12 @@
 <br>
 <br>
 
-## <b> Let's Connect!
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/hartono-yaputra/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Hartono Yaputra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-  <a href="https://wa.me/6281356425838" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-<br>
-
-<li>
-<a href="mailto:hartono.yaputra@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Hartono Yaputra-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+## 🙋 Let's Connect
+<p align="center">
+	<a href="mailto:hartono.yaputra@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/hartono-yaputra/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://wa.me/6281356425838"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+</p>
 
 ---
 
