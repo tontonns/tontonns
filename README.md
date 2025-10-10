@@ -26,6 +26,7 @@
     ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB.svg?logo=rstudio&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+  	![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 
 <br>   
     
