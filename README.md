@@ -44,6 +44,12 @@
 
 <br>
 
+- **Design and Productivity**:
+
+  	![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
+  	![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white)
+  	![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white)
+  	![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01.svg?logo=microsoftoffice&logoColor=white)
 
 </p>
 
