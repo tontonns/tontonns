@@ -11,7 +11,6 @@
 - Currently a student at BINUS University.
 - I’m currently open for an Intern.
 <br>
-<br>
 
 -----
 
@@ -48,7 +47,6 @@
 
 </p>
 
-<br>
 <br>
 
 -----
