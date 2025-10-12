@@ -43,6 +43,7 @@
     ![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
   	![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white)
+  	![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)
 
 <br>
 
