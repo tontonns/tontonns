@@ -10,6 +10,7 @@
 - A passionate Data Science Student.
 - Currently a student at BINUS University.
 - I’m currently open for an Intern.
+- Love playing badminton
 <br>
 
 -----
